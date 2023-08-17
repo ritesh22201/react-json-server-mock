@@ -1,9 +1,10 @@
 {
-    "todos" : [
+    "users" : [
         {
-            "id" : 1,
-            "title" : "Learn React",
-            "status" : true
+            "username" : "Ritesh Goswami",
+            "avatar" : "https://avatars.githubusercontent.com/u/112602790?v=4",
+            "email" : "ritesh@gmail.com",
+            "password" : "Ritesh@123"
         }
     ]
 }
