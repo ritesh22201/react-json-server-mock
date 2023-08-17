@@ -1,11 +1,32 @@
 {
-    "users" : [
+    "users": [
         {
-            "id" : 1,
-            "username" : "Ritesh Goswami",
-            "avatar" : "https://avatars.githubusercontent.com/u/112602790?v=4",
-            "email" : "ritesh@gmail.com",
-            "password" : "Ritesh@123"
+            "id": 1,
+            "username": "Ritesh Goswami",
+            "avatar": "https://avatars.githubusercontent.com/u/112602790?v=4",
+            "email": "ritesh@gmail.com",
+            "password": "Ritesh@123"
+        },
+        {
+            "username": "Sumit",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg",
+            "email": "sumit@gmail.com",
+            "password": "Sumit@123",
+            "id": 2
+        },
+        {
+            "username": "Anish",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg",
+            "email": "anish@gmail.com",
+            "password": "Anish@123",
+            "id": 3
+        },
+        {
+            "username": "Sudhir",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg",
+            "email": "sudhir@gmail.com",
+            "password": "Sudhir@123",
+            "id": 4
         }
     ]
 }
